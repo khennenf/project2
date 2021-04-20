@@ -12,3 +12,4 @@ Requirements:
   3. Use Visual Studio Code: <br>
         a. Run app.py flask app to start local server <br>
         b. Use python -m http.server to open the project in an Integrated Terminal <br>
+        c. Open http://localhost:8000/ to view the website
